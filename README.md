@@ -1,6 +1,5 @@
-git init
+git config --global user.email "simrannishad@gmail.com"
+git config --global user.name "Simran Nishad"
 git add .
 git commit -m "Initial commit - Vendor Performance Analysis"
-git branch -M main
-git remote add origin https://github.com/yourusername/vendor-performance-analysis.git
 git push -u origin main
