@@ -131,7 +131,7 @@ Power BI Dashboard shows:
 - Bulk Purchase Savings
 - Low Performing Brands Scatter
 
-![Vendor Performance Dashboard](dashboardimage.JPG)
+![Vendor Performance Dashboard](Images/dashboardimage.JPG)
 
 ---
 
